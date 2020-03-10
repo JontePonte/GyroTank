@@ -16,13 +16,13 @@ Version 1.0 done before uploaded to github
 
 ## Roadmap
 ### Version 1.1
--[] Set mode switch on a rc-switch
--[] Create a mode that shuts down gyro stabilization
--[] Add FPV with a rc controlled camera
--[] Create new main body for the physical tank
--[] Upload .stl or fusion360-files to github
+-Set mode switch on a rc-switch
+- Create a mode that shuts down gyro stabilization
+- Add FPV with a rc controlled camera
+- Create new main body for the physical tank
+- Upload .stl or fusion360-files to github
 
 ### Version 1.2
--[] Create a mode that balance the tank standning up
--[] Create new tracks with suspension
--[] Make the tank waterproof
+- Create a mode that balance the tank standning up
+- Create new tracks with suspension
+- Make the tank waterproof
