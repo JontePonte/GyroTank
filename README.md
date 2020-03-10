@@ -1,8 +1,8 @@
 # GyroTank
-- An RC-tank stabilized with a MPU6050 gyro
+An RC-tank stabilized with a MPU6050 gyro
 
 ## Version 1.0
-- Version 1.0 done before uploaded to github
+Version 1.0 done before uploaded to github
 ### Major Features
 - The tank reads rc-input using an interupt sequence
 - The tank reads gyro and accelerometer signals from the GY-521
@@ -16,13 +16,13 @@
 
 ## Roadmap
 ### Version 1.1
--[ ] Set mode switch on a rc-switch
--[ ] Create a mode that shuts down gyro stabilization
--[ ] Add FPV with a rc controlled camera
--[ ] Create new main body for the physical tank
--[ ] Upload .stl or fusion360-files to github
+-[] Set mode switch on a rc-switch
+-[] Create a mode that shuts down gyro stabilization
+-[] Add FPV with a rc controlled camera
+-[] Create new main body for the physical tank
+-[] Upload .stl or fusion360-files to github
 
-## Version 1.2
--[ ] Create a mode that balance the tank standning up
--[ ] Create new tracks with suspension
--[ ] Make the tank waterproof
+### Version 1.2
+-[] Create a mode that balance the tank standning up
+-[] Create new tracks with suspension
+-[] Make the tank waterproof
