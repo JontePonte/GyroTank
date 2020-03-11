@@ -3,9 +3,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // PID:s
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-float pid_p_gain_z = 1.0;               // Gain setting for the turn P-controller
-float pid_i_gain_z = 0.03;              // Gain setting for the turn I-controller
-float pid_d_gain_z = 2.0;               // Gain setting for the turn D-controller
+float pid_p_gain_z = 0.8;               // Gain setting for the turn P-controller
+float pid_i_gain_z = 0.02;              // Gain setting for the turn I-controller
+float pid_d_gain_z = 1.5;               // Gain setting for the turn D-controller
 int pid_max_z = 400;                    // Maximum output of the PID-controller (+/-)
 
 float pid_p_gain_y = 0.01;              // Gain setting for the pitch P-controller
