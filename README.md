@@ -1,5 +1,5 @@
 # GyroTank
-An RC-tank stabilized with a MPU6050 gyro
+An RC-tank stabilized with a MPU6050 gyro.
 
 ## Version 1.0
 Version 1.0 done before uploaded to github
