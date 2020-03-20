@@ -8,9 +8,9 @@ float pid_i_gain_z = 0.02;              // Gain setting for the turn I-controlle
 float pid_d_gain_z = 1.5;               // Gain setting for the turn D-controller
 int pid_max_z = 400;                    // Maximum output of the PID-controller (+/-)
 
-float pid_p_gain_y = 0.01;              // Gain setting for the pitch P-controller
-float pid_i_gain_y = 0.0005;            // Gain setting for the pitch I-controller
-float pid_d_gain_y = 0;                 // Gain setting for the pitch D-controller
+float pid_p_gain_y = 0.0;               // Gain setting for the pitch P-controller
+float pid_i_gain_y = 0.0;               // Gain setting for the pitch I-controller
+float pid_d_gain_y = 0.0;               // Gain setting for the pitch D-controller
 int pid_max_y = 200;                    // Maximum output of the PID-controller (+/-)
 int pid_y_throttle_deadband = 100;      // Deadband on throttle (channel 3) for PID-y
 int pid_y_gyro_deadband = 20;           // Deadband on gyro pitch for PID-y
